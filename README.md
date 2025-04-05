@@ -73,7 +73,6 @@ Driven by curiosity, fueled by consistency, and committed to daily growth 🚀
 
 > 💌 Open for collaboration, dev talk, project ideas, or just a casual chat!
 
-[LinkedIn](https://www.linkedin.com/in/himanshu-s-763a85195/) • [GitHub](https://github.com/himanshups/) • [Portfolio](https://takeuforward.org/profile/Dollar001) • [Email](himanshups2901@gmail.com)
 
 ---
 
