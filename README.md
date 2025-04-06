@@ -15,7 +15,7 @@ Driven by curiosity, fueled by consistency, and committed to daily growth 🚀
 
 ## 💼 Professional Snapshot
 
-| 💼 Current Role         | Back-End Java Developer @ **[Your Company Name]**           |
+| 💼 Current Role         | Back-End Java Developer @ **[Tata Consultancy Servics]**           |
 |------------------------|--------------------------------------------------------------|
 | 🕒 Experience           | 1+ Year in Software Development                              |
 | 🎓 Academic Highlight   | **GATE Qualified – 2 Times**                                 |
