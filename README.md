@@ -207,7 +207,7 @@ Driven by curiosity, fueled by consistency, and committed to continuous growth �
 
 💌 Open for collaboration, dev talk, project ideas, or just a casual chat!
 
-- 📧 Email: **himanshups2901@gmail.com**
+- 📧 Email: **himanshusharma7787@gmail.com**
 - 💼 LinkedIn: **linkedin.com/in/himanshu-sharma**
 - 💻 LeetCode: **leetcode.com/u/Himanshups29/**
 - 🏆 CodeChef: **codechef.com/users/dollar_001**
